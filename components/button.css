@@ -1,0 +1,19 @@
+/* button.css */
+
+.btn-medium {
+	background-color: black !important;
+	color: white !important;
+	border: 1px solid black !important;
+	padding: 10px 30px 10px 30px !important;
+  	border-radius: 10px!important;
+  	text-align: center !important;
+  	font-family: 'Nanum Gothic Coding', monospace !important;
+  	text-decoration: none !important;
+  	font-weight: bold !important;
+}
+
+.btn-medium:hover {
+  opacity: 1;
+  text-decoration: none;
+  font-size:20px;
+}

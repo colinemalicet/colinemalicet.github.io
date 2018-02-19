@@ -1,0 +1,23 @@
+/*rome.css*/
+
+
+.rome {
+	background-image: url(image/rome.jpg);
+	background-size: cover;
+	background-size: 100% 100%;
+	padding: 300px;
+	position :relative;
+}
+
+.rome-description {
+	position : absolute ;
+	left : 20px;
+	top : 40px;
+	right : 300px;
+}
+
+.rome-description h2 {
+	color :white;
+	font-family: 'Fjalla One', sans-serif
+
+}
